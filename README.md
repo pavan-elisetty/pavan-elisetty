@@ -3,7 +3,10 @@
 
 _In the midst of chaos , There is always oppurtunity !!_
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br/>
+<br/>
+
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
@@ -13,7 +16,9 @@ _In the midst of chaos , There is always oppurtunity !!_
 - 👯 collaborating and 💬 contributing
 <br/>
 <br/>
-**My Stats on Github 🏆🏆🏆:**
+_My Stats on Github 🏆🏆🏆:_
+<br/>
+<br/>
 
 [![Pavan-elisetty](https://github-readme-stats.vercel.app/api?username=pavan-elisetty&count_private=true&include_all_commits=true&theme=radical)](https://github.com/indrajitbnikam?tab=repositories)
 
