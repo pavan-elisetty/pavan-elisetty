@@ -17,7 +17,7 @@ _In the midst of chaos , There is always oppurtunity !!_
 - 👯 collaborating and 💬 contributing
 <br/>
 <br/>
-_My Stats on Github 🏆🏆🏆:_
+My Stats on Github 🏆🏆🏆:
 <br/>
 <br/>
 
