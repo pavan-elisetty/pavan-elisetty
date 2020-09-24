@@ -13,7 +13,7 @@ _In the midst of chaos , There is always oppurtunity !!_
 
 #### Currently Experimenting things 😎😎 
 - 🔭 working on *MachineLearning , DeepLearning , MongoDB , Watson* projects
-- 🌱 I’m currently learning 
+- 🌱 Currently on quest of learning 
 - 👯 collaborating and 💬 contributing
 <br/>
 <br/>
