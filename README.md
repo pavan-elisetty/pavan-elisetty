@@ -1,5 +1,6 @@
 ### Hi , This is **Pavan-Elisetty** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![Website](https://img.shields.io/badge/Computer-Science_Grad-blue) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<a href="https://sourcerer.io/pavan-elisetty"><img src="https://img.shields.io/badge/Python-202%20commits-orange.svg" alt=""></a>
 
 _In the midst of chaos , There is always oppurtunity !!_
 
@@ -55,9 +56,9 @@ My Stats on Github 🏆🏆🏆:
 
 <br/>
 <br/>
-
-
 View my GitHub visual Profile here :
+<br/>
 <a href="https://sourcerer.io/pavan-elisetty"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+
 
 [website]: https://img.shields.io/badge/Pavan-Elisetty-green
