@@ -56,10 +56,10 @@ My Stats on Github 🏆🏆🏆:
 <br/>
 <br/>
 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-***View my visual Profile here :***
+
+View my GitHub visual Profile here :
 <br/>
 <a href="https://sourcerer.io/pavan-elisetty"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
-
+<br/>
 
 [website]: https://img.shields.io/badge/Pavan-Elisetty-green
