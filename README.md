@@ -56,9 +56,7 @@ My Stats on Github 🏆🏆🏆:
 
 <br/>
 <br/>
-View my GitHub visual Profile here :
-<br/>
-<a href="https://sourcerer.io/pavan-elisetty"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-elisetty&" alt="pavan-elisetty" /></p>
 
 [website]: https://img.shields.io/badge/Pavan-Elisetty-green
