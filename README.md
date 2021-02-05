@@ -42,6 +42,9 @@ My Stats on Github 🏆🏆🏆:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-elisetty&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-elisetty&" alt="pavan-elisetty" /></p>
+
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me:
 <a href="https://www.linkedin.com/in/pavan-elisetty/">
@@ -57,6 +60,5 @@ My Stats on Github 🏆🏆🏆:
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-elisetty&" alt="pavan-elisetty" /></p>
 
 [website]: https://img.shields.io/badge/Pavan-Elisetty-green
