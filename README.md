@@ -1,6 +1,5 @@
 ### Hi , This is **Pavan-Elisetty** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![Website](https://img.shields.io/badge/Computer-Science_Grad-blue) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<a href="https://sourcerer.io/pavan-elisetty"><img src="https://img.shields.io/badge/Python-202%20commits-orange.svg" alt=""></a>
 
 _In the midst of chaos , There is always oppurtunity !!_
 
@@ -13,7 +12,7 @@ _In the midst of chaos , There is always oppurtunity !!_
 <br/>
 
 #### Currently Experimenting things 😎😎 
-- 🔭 working on *MachineLearning , DeepLearning , MongoDB , Watson* projects
+- 🔭 working on *MachineLearning , DeepLearning , software engineering* projects
 - 🌱 Currently on quest of learning 
 - 👯 collaborating and 💬 contributing
 <br/>
